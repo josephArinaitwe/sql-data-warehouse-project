@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KMC-PC\\Source\\Repos\\sql-data-warehouse-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KMC-PC\\Source\\Repos\\sql-data-warehouse-project\\scripts\\ddl_bronze.sql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\ddl_bronze.sql||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KMC-PC\\OneDrive\\Documents\\SQL Server Management Studio 21\\SQLQuery2.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery2.sql - not connected",
+              "DocumentMoniker": "C:\\Users\\KMC-PC\\OneDrive\\Documents\\SQL Server Management Studio 21\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\SQL Server Management Studio 21\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\KMC-PC\\OneDrive\\Documents\\SQL Server Management Studio 21\\SQLQuery2.sql - not connected",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\SQL Server Management Studio 21\\SQLQuery2.sql - not connected",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-24T08:20:04.962Z",
+              "EditorCaption": " - not connected"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ddl_bronze.sql",
+              "DocumentMoniker": "C:\\Users\\KMC-PC\\Source\\Repos\\sql-data-warehouse-project\\scripts\\ddl_bronze.sql",
+              "RelativeDocumentMoniker": "scripts\\ddl_bronze.sql",
+              "ToolTip": "C:\\Users\\KMC-PC\\Source\\Repos\\sql-data-warehouse-project\\scripts\\ddl_bronze.sql",
+              "RelativeToolTip": "scripts\\ddl_bronze.sql",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-24T08:18:14.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
