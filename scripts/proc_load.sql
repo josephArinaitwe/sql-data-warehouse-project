@@ -94,4 +94,14 @@ TRUNCATE TABLE bronze.erp_px_cat_g1v2;
 			FIELDTERMINATOR = ',',
 			TABLOCK
 		);
+END TRY
+BEGIN CATCH
+	PRINT '=============================================================================================================================='
+	PRINT 'ERROR OCCURED DURING LOADING BRONZE LAYER'
+	PRINT 'Error Message' + ERROR_MESSAGE();
+	PRINT 'Error Message' + CAST(ERROR_NUMBER() AS NVARCHAR);
+	PRINT 'Error Message' + CAST(ERROR_STAT() AS NVARCHAR);
+	PRINT '=============================================================================================================================='
+END CATCH
 END
+
